@@ -1,3 +1,3 @@
 # otus-mssql-kononyuk
 
-Домашние задания курса OTUS "MS SQL Server Developer".
+Домашние задания курса OTUS "MS SQL Server Developer.Асинхронный курс".
